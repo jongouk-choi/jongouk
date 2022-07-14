@@ -1,0 +1,155 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+	<title>Jongouk Choi's Webpage</title>
+	
+	<link rel="stylesheet" href="grad.css" type="text/css" media="all" />
+
+</head>
+
+<body>
+<!--div id="wrapper" -->
+<br />
+<div id="masthead">
+	<div id="bannerphoto">
+		<img src="photo.jpeg"
+		width="150"
+		height="200">
+	</div>
+	<div id="bannertext">
+		<a href="." style="font-size:200%;color:#ffffff">Jongouk Choi</a><br />
+		Department of Computer Science<br />
+		Purdue University, West Lafayette, IN<br /><br />
+		choi658(at)purdue(dot)edu
+	</div>
+</div>  <!--masthead-->
+
+<div id="left_container">
+	<h2>Hello!</h2>
+	<p>I am a Ph.D student at Purdue University, Department of Computer Science, being advised by 
+	<a href="https://www.cs.purdue.edu/homes/chjung">Dr.Changhee Jung</a>.
+	My research interests include high performance computing, architecture/compiler, security, 
+	and intermittent computing. Before joining CS@Purdue, 
+	I received BS/MS from Kentucky State University advised by Prof. Chi Shen and Prof. Jens Hannemann.
+	From 2012 to 2015, I was a research engineer at <a href="https://www.lge.com/us">LG Electronics</a>
+	Car Laboratory studying about high performance embedded system design.
+	I also worked at NASA EPSCOR with
+	<a href="https://www.engr.uky.edu/directory/martin-alexandre">Dr. Alexandre Martin</a>
+	as a student intern in 2017 summer.
+	</p>
+	<hr style="border-top: dotted 1px;" />
+
+	<h2>Publication</h2>
+
+	<p>&#9632 Jianping Zeng, <b>Jongouk Choi</b>, Xinwei Fu, Ajay P. Shreepathi, Dongyoon Lee, Changwoo Min, and Changhee Jung,<br />
+	<a href="https://dl.acm.org/doi/10.1145/3466752.3480102"> "ReplayCache: Enabling Volatile Caches for Energy Harvesting Systems"</a><br/> 
+54th IEEE/ACM International Symposium on Microarchitecture (MICRO'21), October 2021.<br/>
+
+	<p>&#9632 <b>Jongouk Choi</b>, Qingrui Liu, and Changhee Jung,
+	<br /> <a
+	href="https://dl.acm.org/doi/abs/10.1145/3352460.3358279?casa_token=XVeR-94OONAAAAAA:I4IUPC8lqAIr9FImtg9jAsdlX0Y_B8ySCZZXizndydWo1aoUD5H-b06oF-YZgLkvJPSxVu6Lbmmn">
+	"CoSpec: Compiler Directed Speculative Intermittent Computation"</a><br/> 12th Annual Non-Volatile Memories Workshop (NVMW), Virtual, March 2021.<br
+/> <span style="color:red;"><em> Memorable Paper Award Finalist</em></span></p>
+
+			<p>&#9632 <b>Jongouk Choi</b>, Qingrui Liu, and
+			Changhee Jung, <br /> <a
+			href="https://dl.acm.org/doi/abs/10.1145/3352460.3358279?casa_token=XVeR-94OONAAAAAA:I4IUPC8lqAIr9FImtg9jAsdlX0Y_B8ySCZZXizndydWo1aoUD5H-b06oF-YZgLkvJPSxVu6Lbmmn">
+		"CoSpec: Compiler Directed Speculative Intermittent
+		Computation"</a><br /> 52nd IEEE/ACM International Symposium on
+	Microarchitecture (MICRO'19), Columbus, Ohio, October 2019.<br />
+
+						<p>&#9632 <b>Jongouk Choi</b>,
+						Hyunwoo Joe, Yongjoo Kim, and
+						Changhee Jung, <br /> <a
+						href="https://ieeexplore.ieee.org/abstract/document/8743318">
+					"Achieving Stagnation-Free Intermittent
+					Computation with Boundary-Free Adaptive
+				Execution",</a><br /> the 25th IEEE Real-Time
+			and Embedded Technology and Applications Symposium
+			(RTAS'19), Montreal, Canada, April 2019.</p>
+
+							<p>&#9632 <b>Jongouk
+								Choi</b>, Chi
+							Shen, Jens Hannemann,
+							Siddhartha
+							Bhattacharyya, <br />
+							<a
+							href="https://ieeexplore.ieee.org/document/7868359">"Real-time
+						server overloaded monitoring
+						algorithm using back
+					propagation artificial neural
+					network"</a><br /> IEEE 7th Annual
+				Computing and Communication Workshop and
+				Conference (CCWC'17), Las Vegas, Feb 2017.
+							</p>
+
+		<hr style="border-top: dotted 1px;" />
+
+
+
+
+
+
+<h2>Experience</h2>
+ <p>&#9632 Graduate Research Assistant, Fall 2019 - Present, Purdue University <br/> Architecture/Compiler Co-design</p>
+
+<p>&#9632 Research Intern, Summer 2020, ARM Research <br/> HPC System Architecture/Compiler Co-design (advised by Doug Joseph)</p>
+
+ <p>&#9632 Graduate Research Assistant, Spring 2018 - Summer 2019, Virginia Tech <br/> Architecture/Compiler Co-design</p>
+
+
+ <p>&#9632 Graduate Teaching Assistant, Fall 2017, Virginia Tech <br/> CS250 Computer Organization</p>
+
+ <p>&#9632 Graduate Research Intern, Summer 2017, NASA EPSCOR <br/> GPGPU Implementation of Multidimensional Model of Gas Transportation Using Genetic Algorithm.<br/>
+			                              Hybrid GPU-Accelerated Computing Implementations Using AmgX and PETSc Linear Matrix Solver</p>
+
+ <p>&#9632 Teaching/Research Assistant, 2015 - 2017, Kentucky State University <br/> Computer Science / Math.<br/>
+			                       Computer Hardware Reliability/Sustainability</p>
+
+
+
+ <p>&#9632 Research Engineer, 2012 - 2015, LG Electronics, Volkswagen Modular Infotainment Baukasten Project (VW MIB)<br/> -Vehicle-Device Connectivity Interface and High Performance Embedded System Communication (iPod, CarPlay, AndroidAuto, USB, CDDA, CDCA, MTP, iAPx)<br/>
+ -High Performance Multi-threading Media Middleware Development <br/>
+ -ALSA (Advanced Sound Linux Architecture) and Data Streaming Modification <br/>
+ -Designed and Tested Car Infotainment System </p>
+ 
+
+
+
+
+<hr style="border-top: dotted 1px;" />
+        <h2>Achievements</h2>
+  <p>&#9632             Memorable Paper Finalist - 12th Annual Non-Volatile Memories Workshop (Mar.2021)
+              <br/>
+            <p>&#9632 1<sup>st</sup >Place - Graduate Student Competition - Kentucky Academy of Science (Nov.2016)<br/>
+               <p>&#9632LG Electronics Vehicle Component Company Headquarter Award (Jul.2015)<br/>
+               <p>&#9632Kentucky State University President Award (Feb.2012)<br/>
+               <p>&#9632Kyonggi Governor Award, South Korea (Aug.2011)<br/>
+
+
+<hr style="border-top: dotted 1px;" />
+</div> <!--left container-->
+
+
+<!---div id="right_container">
+  	<a href=".">home</a><br />
+	<a href="experience.html">Experience</a><br />
+	<a href="publication.html">Publication</a><br />
+	<a href="other.html">Other</a><br />
+  	
+	</div> --!>  <!--right container--> 
+
+<div id="footer">
+	Thank you for reaching out.
+</div> <!--footer -->
+
+<!--/div--> <!--wrapper -->
+
+</body>
+
+</html>
